@@ -3,6 +3,8 @@ Wifi Badge
 
 This project will load an image from a web server and display it on an TTGO T5 ESP32 display.
 
+![photo](photo.jpg)
+
 ## Badge
 
 The file in "badge" is an Arduino project that downloads an image and writes all the pixels to the e-paper display.
